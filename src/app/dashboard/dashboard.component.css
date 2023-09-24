@@ -1,0 +1,11 @@
+.iframe-container {
+    width: 1330px;
+    height: 3000px;
+    overflow: hidden;
+  }
+  
+  .iframe-container iframe {
+    width: 100%;
+    height: 100%;
+  }
+  
